@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohamed Alama 👋</h1>
 
 <h3 align="center">
-AI Engineer 🤖 | Generative AI Specialist 🧠 | AI Automation Expert ⚡
+AI Engineer | Generative AI Specialist | AI Automation Expert 
 </h3>
 
 <p align="center">
@@ -13,6 +13,10 @@ AI Engineer 🤖 | Generative AI Specialist 🧠 | AI Automation Expert ⚡
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Alama-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
+   <a href="mailto:m999alama@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-m999alama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -20,7 +24,7 @@ AI Engineer 🤖 | Generative AI Specialist 🧠 | AI Automation Expert ⚡
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class MohamedAlama:
@@ -54,18 +58,18 @@ class MohamedAlama:
 
 ## 🔥 What I Do
 
-- 🤖 Build AI-powered applications using Large Language Models (LLMs)
-- ⚡ Design and automate intelligent workflows with n8n
-- 🧠 Develop Retrieval-Augmented Generation (RAG) systems
-- 🔗 Build scalable APIs using Django & Django REST Framework
-- 📊 Process and analyze data using NumPy & Pandas
-- 🗄️ Work with Vector Databases and AI Pipelines
-- 📝 Create advanced Prompt Engineering solutions
-- 🔒 Former Web Pentesting Enthusiast with a strong security mindset
+-  Build AI-powered applications using Large Language Models (LLMs)
+-  Design and automate intelligent workflows with n8n
+-  Develop Retrieval-Augmented Generation (RAG) systems
+-  Build scalable APIs using Django & Django REST Framework
+-  Process and analyze data using NumPy & Pandas
+-  Work with Vector Databases and AI Pipelines
+-  Create advanced Prompt Engineering solutions
+-  Former Web Pentesting Enthusiast with a strong security mindset
 
 ---
 
-## 🧠 AI & Automation Stack
+##  AI & Automation Stack
 
 ### Generative AI
 - Large Language Models (LLMs)
@@ -108,8 +112,6 @@ class MohamedAlama:
 - NumPy
 - Pandas
 - Data Processing
-- Data Analysis
-
 ---
 
 ## 🛠️ Development Tools
